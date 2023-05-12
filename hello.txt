@@ -1,2 +1,1 @@
-hello master branch
-hello conflict branch
+hello push Remote
